@@ -37,6 +37,7 @@ Example:
  - Node 'IfFoodAhead' has two children 'Prog3' and 'Left'. 
  - Node 'Prog3' has three children 'Prog2', 'Left' and 'Move'. 
  - Node 'Prog2' has two children 'Move' and 'Right'. 
+
 ---
 ### Without maven
 Alternatively if you don't want to run maven you can:
