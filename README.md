@@ -2,6 +2,7 @@
 FER "Solving Optimization Problems Using Evolutionary Computation Algorithms in Java" course 16/17 homeworks
 
 ### Topics:
+ - HW01 3-Sat Solver
  - HW02 Numerical Optimizations
  - HW03 Simulated Annealing
  - HW04 Genetic Algorithm
